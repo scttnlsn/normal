@@ -1,4 +1,4 @@
-(defproject normal "0.1.0-SNAPSHOT"
+(defproject normal "0.1.0"
   :url "https://github.com/scttnlsn/normal"
   :license {:name "MIT"}
   :description "Normalize nested data according to a relationship schema"
